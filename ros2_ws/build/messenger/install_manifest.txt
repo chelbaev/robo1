@@ -1,0 +1,15 @@
+/home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/ament_index/resource_index/package_run_dependencies/messenger
+/home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/ament_index/resource_index/parent_prefix_path/messenger
+/home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/messenger/environment/ament_prefix_path.sh
+/home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/messenger/environment/ament_prefix_path.dsv
+/home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/messenger/environment/path.sh
+/home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/messenger/environment/path.dsv
+/home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/messenger/local_setup.bash
+/home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/messenger/local_setup.sh
+/home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/messenger/local_setup.zsh
+/home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/messenger/local_setup.dsv
+/home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/messenger/package.dsv
+/home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/ament_index/resource_index/packages/messenger
+/home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/messenger/cmake/messengerConfig.cmake
+/home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/messenger/cmake/messengerConfig-version.cmake
+/home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/messenger/package.xml

@@ -1,0 +1,8 @@
+/home/chelbaev/NSU/robots/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim:action/RotateAbsolute.idl
+/home/chelbaev/NSU/robots/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim:msg/Color.idl
+/home/chelbaev/NSU/robots/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim:msg/Pose.idl
+/home/chelbaev/NSU/robots/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/Kill.idl
+/home/chelbaev/NSU/robots/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/SetPen.idl
+/home/chelbaev/NSU/robots/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/Spawn.idl
+/home/chelbaev/NSU/robots/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/TeleportAbsolute.idl
+/home/chelbaev/NSU/robots/ros2_ws/build/turtlesim/rosidl_adapter/turtlesim:srv/TeleportRelative.idl

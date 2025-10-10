@@ -1,0 +1,42 @@
+[0.012s] Invoking command in '/home/chelbaev/NSU/robots/ros2_ws/build/messenger': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/chelbaev/NSU/robots/ros2_ws/src/messenger -DCMAKE_INSTALL_PREFIX=/home/chelbaev/NSU/robots/ros2_ws/install/messenger
+[0.217s] -- The C compiler identification is GNU 11.4.0
+[0.453s] -- The CXX compiler identification is GNU 11.4.0
+[0.485s] -- Detecting C compiler ABI info
+[0.763s] -- Detecting C compiler ABI info - done
+[0.794s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.795s] -- Detecting C compile features
+[0.797s] -- Detecting C compile features - done
+[0.809s] -- Detecting CXX compiler ABI info
+[1.137s] -- Detecting CXX compiler ABI info - done
+[1.169s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.170s] -- Detecting CXX compile features
+[1.172s] -- Detecting CXX compile features - done
+[1.179s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.664s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.772s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.817s] -- Added test 'lint_cmake' to check CMake code style
+[1.818s] -- Added test 'xmllint' to check XML markup files
+[1.818s] -- Configuring done
+[1.820s] -- Generating done
+[1.821s] -- Build files have been written to: /home/chelbaev/NSU/robots/ros2_ws/build/messenger
+[1.824s] Invoked command in '/home/chelbaev/NSU/robots/ros2_ws/build/messenger' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/chelbaev/NSU/robots/ros2_ws/src/messenger -DCMAKE_INSTALL_PREFIX=/home/chelbaev/NSU/robots/ros2_ws/install/messenger
+[1.825s] Invoking command in '/home/chelbaev/NSU/robots/ros2_ws/build/messenger': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/chelbaev/NSU/robots/ros2_ws/build/messenger -- -j12 -l12
+[1.942s] Invoked command in '/home/chelbaev/NSU/robots/ros2_ws/build/messenger' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/chelbaev/NSU/robots/ros2_ws/build/messenger -- -j12 -l12
+[1.981s] Invoking command in '/home/chelbaev/NSU/robots/ros2_ws/build/messenger': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/chelbaev/NSU/robots/ros2_ws/build/messenger
+[2.009s] -- Install configuration: ""
+[2.010s] -- Installing: /home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/ament_index/resource_index/package_run_dependencies/messenger
+[2.011s] -- Installing: /home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/ament_index/resource_index/parent_prefix_path/messenger
+[2.012s] -- Installing: /home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/messenger/environment/ament_prefix_path.sh
+[2.012s] -- Installing: /home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/messenger/environment/ament_prefix_path.dsv
+[2.013s] -- Installing: /home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/messenger/environment/path.sh
+[2.013s] -- Installing: /home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/messenger/environment/path.dsv
+[2.013s] -- Installing: /home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/messenger/local_setup.bash
+[2.014s] -- Installing: /home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/messenger/local_setup.sh
+[2.016s] -- Installing: /home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/messenger/local_setup.zsh
+[2.017s] -- Installing: /home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/messenger/local_setup.dsv
+[2.017s] -- Installing: /home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/messenger/package.dsv
+[2.020s] -- Installing: /home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/ament_index/resource_index/packages/messenger
+[2.022s] -- Installing: /home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/messenger/cmake/messengerConfig.cmake
+[2.023s] -- Installing: /home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/messenger/cmake/messengerConfig-version.cmake
+[2.023s] -- Installing: /home/chelbaev/NSU/robots/ros2_ws/install/messenger/share/messenger/package.xml
+[2.028s] Invoked command in '/home/chelbaev/NSU/robots/ros2_ws/build/messenger' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/chelbaev/NSU/robots/ros2_ws/build/messenger

@@ -1,0 +1,22 @@
+[0.334s] Invoking command in '/home/chelbaev/NSU/robots/ros2_ws/src/ten_pub': PYTHONPATH=/home/chelbaev/NSU/robots/ros2_ws/build/ten_pub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chelbaev/NSU/robots/ros2_ws/install/ten_pub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ten_pub build --build-base /home/chelbaev/NSU/robots/ros2_ws/build/ten_pub/build install --record /home/chelbaev/NSU/robots/ros2_ws/build/ten_pub/install.log --single-version-externally-managed install_data
+[0.461s] running egg_info
+[0.461s] writing ../../build/ten_pub/ten_pub.egg-info/PKG-INFO
+[0.461s] writing dependency_links to ../../build/ten_pub/ten_pub.egg-info/dependency_links.txt
+[0.462s] writing entry points to ../../build/ten_pub/ten_pub.egg-info/entry_points.txt
+[0.462s] writing requirements to ../../build/ten_pub/ten_pub.egg-info/requires.txt
+[0.462s] writing top-level names to ../../build/ten_pub/ten_pub.egg-info/top_level.txt
+[0.463s] reading manifest file '../../build/ten_pub/ten_pub.egg-info/SOURCES.txt'
+[0.463s] adding license file 'LICENSE'
+[0.463s] writing manifest file '../../build/ten_pub/ten_pub.egg-info/SOURCES.txt'
+[0.463s] running build
+[0.463s] running build_py
+[0.463s] running install
+[0.464s] running install_lib
+[0.464s] running install_data
+[0.464s] running install_egg_info
+[0.467s] removing '/home/chelbaev/NSU/robots/ros2_ws/install/ten_pub/lib/python3.10/site-packages/ten_pub-0.0.0-py3.10.egg-info' (and everything under it)
+[0.467s] Copying ../../build/ten_pub/ten_pub.egg-info to /home/chelbaev/NSU/robots/ros2_ws/install/ten_pub/lib/python3.10/site-packages/ten_pub-0.0.0-py3.10.egg-info
+[0.467s] running install_scripts
+[0.480s] Installing talker script to /home/chelbaev/NSU/robots/ros2_ws/install/ten_pub/lib/ten_pub
+[0.480s] writing list of installed files to '/home/chelbaev/NSU/robots/ros2_ws/build/ten_pub/install.log'
+[0.497s] Invoked command in '/home/chelbaev/NSU/robots/ros2_ws/src/ten_pub' returned '0': PYTHONPATH=/home/chelbaev/NSU/robots/ros2_ws/build/ten_pub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chelbaev/NSU/robots/ros2_ws/install/ten_pub/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ten_pub build --build-base /home/chelbaev/NSU/robots/ros2_ws/build/ten_pub/build install --record /home/chelbaev/NSU/robots/ros2_ws/build/ten_pub/install.log --single-version-externally-managed install_data

@@ -1,0 +1,17 @@
+LICENSE
+package.xml
+setup.cfg
+setup.py
+../../build/ten_pub/ten_pub.egg-info/PKG-INFO
+../../build/ten_pub/ten_pub.egg-info/SOURCES.txt
+../../build/ten_pub/ten_pub.egg-info/dependency_links.txt
+../../build/ten_pub/ten_pub.egg-info/entry_points.txt
+../../build/ten_pub/ten_pub.egg-info/requires.txt
+../../build/ten_pub/ten_pub.egg-info/top_level.txt
+../../build/ten_pub/ten_pub.egg-info/zip-safe
+resource/ten_pub
+ten_pub/__init__.py
+ten_pub/publisher_member_function.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

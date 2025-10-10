@@ -1,0 +1,4 @@
+source;share/messenger/local_setup.bash
+source;share/messenger/local_setup.dsv
+source;share/messenger/local_setup.sh
+source;share/messenger/local_setup.zsh
