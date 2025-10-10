@@ -1,0 +1,37 @@
+[0.005s] Invoking command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_action_client': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_action_client -- -j12 -l12
+[0.054s] [ 12%] [32mBuilding CXX object CMakeFiles/action_client_not_composable_with_feedback.dir/not_composable_with_feedback.cpp.o[0m
+[0.056s] [ 25%] [32mBuilding CXX object CMakeFiles/action_client_not_composable_with_cancel.dir/not_composable_with_cancel.cpp.o[0m
+[0.056s] [ 50%] [32mBuilding CXX object CMakeFiles/action_client_not_composable.dir/not_composable.cpp.o[0m
+[0.056s] [ 50%] [32mBuilding CXX object CMakeFiles/action_client_member_functions.dir/member_functions.cpp.o[0m
+[3.817s] [ 62%] [32m[1mLinking CXX executable action_client_not_composable_with_cancel[0m
+[4.015s] [ 62%] Built target action_client_not_composable_with_cancel
+[4.042s] [ 75%] [32m[1mLinking CXX executable action_client_not_composable_with_feedback[0m
+[4.181s] [ 75%] Built target action_client_not_composable_with_feedback
+[4.248s] [ 87%] [32m[1mLinking CXX executable action_client_not_composable[0m
+[4.375s] [ 87%] Built target action_client_not_composable
+[4.820s] [100%] [32m[1mLinking CXX executable action_client_member_functions[0m
+[4.948s] [100%] Built target action_client_member_functions
+[4.957s] Invoked command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_action_client' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_action_client -- -j12 -l12
+[4.958s] Invoking command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_action_client': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_action_client
+[4.965s] -- Install configuration: "Debug"
+[4.966s] -- Execute custom install script
+[4.966s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_member_functions
+[4.966s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable
+[4.966s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable_with_cancel
+[4.966s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_action_client/lib/examples_rclcpp_minimal_action_client/action_client_not_composable_with_feedback
+[4.966s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_action_client/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_action_client
+[4.966s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_action_client/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_action_client
+[4.967s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/ament_prefix_path.sh
+[4.967s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/ament_prefix_path.dsv
+[4.967s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/path.sh
+[4.967s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/environment/path.dsv
+[4.967s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.bash
+[4.967s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.sh
+[4.967s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.zsh
+[4.967s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/local_setup.dsv
+[4.967s] -- Symlinking: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/package.dsv
+[4.974s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_action_client/share/ament_index/resource_index/packages/examples_rclcpp_minimal_action_client
+[4.974s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/cmake/examples_rclcpp_minimal_action_clientConfig.cmake
+[4.974s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/cmake/examples_rclcpp_minimal_action_clientConfig-version.cmake
+[4.974s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_action_client/share/examples_rclcpp_minimal_action_client/package.xml
+[4.976s] Invoked command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_action_client' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_action_client

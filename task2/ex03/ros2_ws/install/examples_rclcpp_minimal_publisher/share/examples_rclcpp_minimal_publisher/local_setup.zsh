@@ -1,0 +1,1 @@
+/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_publisher/ament_cmake_environment_hooks/local_setup.zsh

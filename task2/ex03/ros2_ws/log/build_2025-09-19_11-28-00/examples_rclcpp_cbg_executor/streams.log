@@ -1,0 +1,33 @@
+[0.006s] Invoking command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_cbg_executor': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_cbg_executor -- -j12 -l12
+[0.040s] [35m[1mConsolidate compiler generated dependencies of target ping_pong[0m
+[0.040s] [35m[1mConsolidate compiler generated dependencies of target ping[0m
+[0.040s] [35m[1mConsolidate compiler generated dependencies of target pong[0m
+[0.056s] [ 30%] Built target ping
+[0.056s] [ 70%] Built target ping_pong
+[0.058s] [100%] Built target pong
+[0.065s] Invoked command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_cbg_executor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_cbg_executor -- -j12 -l12
+[0.066s] Invoking command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_cbg_executor': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_cbg_executor
+[0.073s] -- Install configuration: "Debug"
+[0.074s] -- Execute custom install script
+[0.074s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_cbg_executor/lib/examples_rclcpp_cbg_executor/ping
+[0.074s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_cbg_executor/lib/examples_rclcpp_cbg_executor/pong
+[0.074s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_cbg_executor/lib/examples_rclcpp_cbg_executor/ping_pong
+[0.074s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_cbg_executor/include/examples_rclcpp_cbg_executor/ping_node.hpp
+[0.074s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_cbg_executor/include/examples_rclcpp_cbg_executor/pong_node.hpp
+[0.074s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_cbg_executor/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_cbg_executor
+[0.074s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_cbg_executor/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_cbg_executor
+[0.074s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/environment/ament_prefix_path.sh
+[0.074s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/environment/ament_prefix_path.dsv
+[0.075s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/environment/path.sh
+[0.075s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/environment/path.dsv
+[0.075s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/local_setup.bash
+[0.075s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/local_setup.sh
+[0.075s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/local_setup.zsh
+[0.075s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/local_setup.dsv
+[0.075s] -- Symlinking: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/package.dsv
+[0.080s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_cbg_executor/share/ament_index/resource_index/packages/examples_rclcpp_cbg_executor
+[0.080s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.081s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/cmake/examples_rclcpp_cbg_executorConfig.cmake
+[0.081s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/cmake/examples_rclcpp_cbg_executorConfig-version.cmake
+[0.081s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_cbg_executor/share/examples_rclcpp_cbg_executor/package.xml
+[0.083s] Invoked command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_cbg_executor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_cbg_executor

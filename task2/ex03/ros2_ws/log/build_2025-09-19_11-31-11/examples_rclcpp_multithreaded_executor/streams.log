@@ -1,0 +1,51 @@
+[0.005s] Invoking command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_multithreaded_executor': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/chelbaev/NSU/robots/ex03/ros2_ws/src/examples/rclcpp/executors/multithreaded_executor -DCMAKE_INSTALL_PREFIX=/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_multithreaded_executor
+[0.016s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.104s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.111s] -- Found rclcpp: 16.0.14 (/opt/ros/humble/share/rclcpp/cmake)
+[0.130s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.131s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.134s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.140s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.148s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.169s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.169s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.246s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.280s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.331s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.331s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.331s] -- Configured cppcheck include dirs: 
+[0.331s] -- Configured cppcheck exclude dirs and/or files: 
+[0.332s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[0.332s] -- Configured cpplint exclude dirs and/or files: 
+[0.332s] -- Added test 'lint_cmake' to check CMake code style
+[0.332s] -- Added test 'uncrustify' to check C / C++ code style
+[0.332s] -- Configured uncrustify additional arguments: 
+[0.332s] -- Added test 'xmllint' to check XML markup files
+[0.334s] -- Configuring done
+[0.341s] -- Generating done
+[0.343s] -- Build files have been written to: /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_multithreaded_executor
+[0.349s] Invoked command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_multithreaded_executor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/chelbaev/NSU/robots/ex03/ros2_ws/src/examples/rclcpp/executors/multithreaded_executor -DCMAKE_INSTALL_PREFIX=/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_multithreaded_executor
+[0.350s] Invoking command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_multithreaded_executor': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_multithreaded_executor -- -j12 -l12
+[0.382s] [35m[1mConsolidate compiler generated dependencies of target multithreaded_executor[0m
+[0.396s] [100%] Built target multithreaded_executor
+[0.406s] Invoked command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_multithreaded_executor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_multithreaded_executor -- -j12 -l12
+[0.407s] Invoking command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_multithreaded_executor': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_multithreaded_executor
+[0.413s] -- Install configuration: "Debug"
+[0.414s] -- Execute custom install script
+[0.414s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_multithreaded_executor/lib/examples_rclcpp_multithreaded_executor/multithreaded_executor
+[0.414s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_multithreaded_executor
+[0.414s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_multithreaded_executor
+[0.414s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/environment/ament_prefix_path.sh
+[0.415s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/environment/ament_prefix_path.dsv
+[0.415s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/environment/path.sh
+[0.415s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/environment/path.dsv
+[0.415s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/local_setup.bash
+[0.415s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/local_setup.sh
+[0.415s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/local_setup.zsh
+[0.415s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/local_setup.dsv
+[0.416s] -- Symlinking: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/package.dsv
+[0.424s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/ament_index/resource_index/packages/examples_rclcpp_multithreaded_executor
+[0.424s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/cmake/examples_rclcpp_multithreaded_executorConfig.cmake
+[0.424s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/cmake/examples_rclcpp_multithreaded_executorConfig-version.cmake
+[0.424s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_multithreaded_executor/share/examples_rclcpp_multithreaded_executor/package.xml
+[0.426s] Invoked command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_multithreaded_executor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_multithreaded_executor

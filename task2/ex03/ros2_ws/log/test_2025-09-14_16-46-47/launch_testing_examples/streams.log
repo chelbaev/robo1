@@ -1,0 +1,28 @@
+[1.848s] Invoking command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/src/examples/launch_testing/launch_testing_examples': AMENT_PREFIX_PATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/install/launch_testing_examples:${AMENT_PREFIX_PATH} PYTEST_ADDOPTS=--tb=short --junit-xml=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/launch_testing_examples/pytest.xml --junit-prefix=launch_testing_examples -o cache_dir=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/launch_testing_examples/.pytest_cache PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/launch_testing_examples:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -m pytest
+[2.149s] [1m============================= test session starts ==============================[0m
+[2.149s] platform linux -- Python 3.10.12, pytest-6.2.5, py-1.10.0, pluggy-0.13.0
+[2.152s] cachedir: /home/chelbaev/NSU/robots/ex03/ros2_ws/build/launch_testing_examples/.pytest_cache
+[2.152s] rootdir: /home/chelbaev/NSU/robots/ex03/ros2_ws/src/examples/launch_testing/launch_testing_examples
+[2.152s] plugins: ament-pep257-0.12.14, ament-flake8-0.12.14, launch-testing-ros-0.19.10, ament-lint-0.12.14, ament-copyright-0.12.14, ament-xmllint-0.12.14, launch-testing-1.0.10, cov-3.0.0, colcon-core-0.20.0
+[2.333s] [1mcollecting ... [0m[1m
+[2.333s] collected 9 items                                                              [0m
+[2.333s] 
+[4.511s] launch_testing_examples/check_msgs_launch_test.py [32m.[0m[32m                      [ 11%][0m
+[8.323s] launch_testing_examples/check_multiple_nodes_launch_test.py [32m.[0m[32m            [ 22%][0m
+[13.671s] launch_testing_examples/check_node_launch_test.py [32m.[0m[32m                      [ 33%][0m
+[13.679s] launch_testing_examples/hello_world_launch_test.py [32m.[0m[32m                     [ 44%][0m
+[16.868s] launch_testing_examples/record_rosbag_launch_test.py [32m.[0m[32m                   [ 55%][0m
+[17.268s] launch_testing_examples/set_param_launch_test.py [32m.[0m[32m                       [ 66%][0m
+[17.405s] test/test_copyright.py [32m.[0m[32m                                                 [ 77%][0m
+[17.473s] test/test_flake8.py [32m.[0m[33m                                                    [ 88%][0m
+[17.497s] test/test_pep257.py [32m.[0m[33m                                                    [100%][0m
+[17.497s] - generated xml file: /home/chelbaev/NSU/robots/ex03/ros2_ws/build/launch_testing_examples/pytest.xml -
+[17.498s] [33m======================== [32m9 passed[0m, [33m[1m2 warnings[0m[33m in 15.35s[0m[33m ========================[0m
+[17.498s] 
+[17.498s] [33m=============================== warnings summary ===============================[0m
+[17.498s] test/test_flake8.py::test_flake8
+[17.498s] test/test_flake8.py::test_flake8
+[17.498s]   Warning: SelectableGroups dict interface is deprecated. Use select.
+[17.498s] 
+[17.498s] -- Docs: https://docs.pytest.org/en/stable/warnings.html
+[17.675s] Invoked command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/src/examples/launch_testing/launch_testing_examples' returned '0': AMENT_PREFIX_PATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/install/launch_testing_examples:${AMENT_PREFIX_PATH} PYTEST_ADDOPTS=--tb=short --junit-xml=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/launch_testing_examples/pytest.xml --junit-prefix=launch_testing_examples -o cache_dir=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/launch_testing_examples/.pytest_cache PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/launch_testing_examples:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -m pytest

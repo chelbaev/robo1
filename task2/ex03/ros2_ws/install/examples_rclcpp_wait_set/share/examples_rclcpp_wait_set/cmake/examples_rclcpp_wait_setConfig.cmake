@@ -1,0 +1,1 @@
+/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_wait_set/ament_cmake_core/examples_rclcpp_wait_setConfig.cmake

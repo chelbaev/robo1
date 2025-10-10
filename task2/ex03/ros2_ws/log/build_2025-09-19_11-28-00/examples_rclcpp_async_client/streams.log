@@ -1,0 +1,24 @@
+[0.011s] Invoking command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_async_client': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_async_client -- -j12 -l12
+[0.045s] [35m[1mConsolidate compiler generated dependencies of target client_main[0m
+[0.059s] [100%] Built target client_main
+[0.067s] Invoked command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_async_client' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_async_client -- -j12 -l12
+[0.075s] Invoking command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_async_client': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_async_client
+[0.080s] -- Install configuration: "Debug"
+[0.080s] -- Execute custom install script
+[0.080s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_async_client/lib/examples_rclcpp_async_client/client_main
+[0.080s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_async_client/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_async_client
+[0.080s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_async_client/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_async_client
+[0.081s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/environment/ament_prefix_path.sh
+[0.081s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/environment/ament_prefix_path.dsv
+[0.081s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/environment/path.sh
+[0.081s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/environment/path.dsv
+[0.081s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/local_setup.bash
+[0.081s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/local_setup.sh
+[0.081s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/local_setup.zsh
+[0.081s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/local_setup.dsv
+[0.081s] -- Symlinking: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/package.dsv
+[0.087s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_async_client/share/ament_index/resource_index/packages/examples_rclcpp_async_client
+[0.088s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/cmake/examples_rclcpp_async_clientConfig.cmake
+[0.088s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/cmake/examples_rclcpp_async_clientConfig-version.cmake
+[0.088s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_async_client/share/examples_rclcpp_async_client/package.xml
+[0.090s] Invoked command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_async_client' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_async_client

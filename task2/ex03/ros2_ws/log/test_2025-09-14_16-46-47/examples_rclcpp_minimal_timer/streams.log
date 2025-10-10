@@ -1,0 +1,109 @@
+[0.068s] Invoking command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer': AMENT_PREFIX_PATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_timer:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_timer /usr/bin/ctest -C Release -D ExperimentalTest --no-compress-output -V --force-new-ctest-process
+[0.095s] UpdateCTestConfiguration  from :/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/CTestConfiguration.ini
+[0.095s] Parse Config file:/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/CTestConfiguration.ini
+[0.095s]    Site: chelbaev-PC
+[0.095s]    Build name: (empty)
+[0.095s]  Add coverage exclude regular expressions.
+[0.095s] Create new tag: 20250914-0946 - Experimental
+[0.096s] UpdateCTestConfiguration  from :/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/CTestConfiguration.ini
+[0.096s] Parse Config file:/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/CTestConfiguration.ini
+[0.096s] Test project /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer
+[0.096s] Constructing a list of tests
+[0.096s] Done constructing a list of tests
+[0.096s] Updating test list for fixtures
+[0.096s] Added 0 tests to meet fixture requirements
+[0.096s] Checking test dependency graph...
+[0.096s] Checking test dependency graph end
+[0.096s] test 1
+[0.096s]     Start 1: copyright
+[0.096s] 
+[0.097s] 1: Test command: /usr/bin/python3 "-u" "/opt/ros/humble/share/ament_cmake_test/cmake/run_test.py" "/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/test_results/examples_rclcpp_minimal_timer/copyright.xunit.xml" "--package-name" "examples_rclcpp_minimal_timer" "--output-file" "/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/ament_copyright/copyright.txt" "--command" "/opt/ros/humble/bin/ament_copyright" "--xunit-file" "/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/test_results/examples_rclcpp_minimal_timer/copyright.xunit.xml"
+[0.097s] 1: Test timeout computed to be: 200
+[0.151s] 1: -- run_test.py: invoking following command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/src/examples/rclcpp/timers/minimal_timer':
+[0.151s] 1:  - /opt/ros/humble/bin/ament_copyright --xunit-file /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/test_results/examples_rclcpp_minimal_timer/copyright.xunit.xml
+[0.353s] 1: No problems found, checked 2 files
+[0.368s] 1: -- run_test.py: return code 0
+[0.368s] 1: -- run_test.py: verify result file '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/test_results/examples_rclcpp_minimal_timer/copyright.xunit.xml'
+[0.382s] 1/6 Test #1: copyright ........................   Passed    0.31 sec
+[0.383s] test 2
+[0.386s]     Start 2: cppcheck
+[0.388s] 
+[0.388s] 2: Test command: /usr/bin/python3 "-u" "/opt/ros/humble/share/ament_cmake_test/cmake/run_test.py" "/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/test_results/examples_rclcpp_minimal_timer/cppcheck.xunit.xml" "--package-name" "examples_rclcpp_minimal_timer" "--output-file" "/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/ament_cppcheck/cppcheck.txt" "--command" "/opt/ros/humble/bin/ament_cppcheck" "--xunit-file" "/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/test_results/examples_rclcpp_minimal_timer/cppcheck.xunit.xml"
+[0.388s] 2: Test timeout computed to be: 300
+[0.470s] 2: -- run_test.py: invoking following command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/src/examples/rclcpp/timers/minimal_timer':
+[0.470s] 2:  - /opt/ros/humble/bin/ament_cppcheck --xunit-file /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/test_results/examples_rclcpp_minimal_timer/cppcheck.xunit.xml
+[0.554s] 2: cppcheck 2.7 has known performance issues and therefore will not be used, set the AMENT_CPPCHECK_ALLOW_SLOW_VERSIONS environment variable to override this.
+[0.574s] 2: -- run_test.py: return code 0
+[0.577s] 2: -- run_test.py: verify result file '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/test_results/examples_rclcpp_minimal_timer/cppcheck.xunit.xml'
+[0.602s] 2/6 Test #2: cppcheck .........................   Passed    0.21 sec
+[0.603s] test 3
+[0.604s]     Start 3: cpplint
+[0.604s] 
+[0.605s] 3: Test command: /usr/bin/python3 "-u" "/opt/ros/humble/share/ament_cmake_test/cmake/run_test.py" "/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/test_results/examples_rclcpp_minimal_timer/cpplint.xunit.xml" "--package-name" "examples_rclcpp_minimal_timer" "--output-file" "/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/ament_cpplint/cpplint.txt" "--command" "/opt/ros/humble/bin/ament_cpplint" "--xunit-file" "/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/test_results/examples_rclcpp_minimal_timer/cpplint.xunit.xml"
+[0.606s] 3: Test timeout computed to be: 120
+[0.688s] 3: -- run_test.py: invoking following command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/src/examples/rclcpp/timers/minimal_timer':
+[0.688s] 3:  - /opt/ros/humble/bin/ament_cpplint --xunit-file /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/test_results/examples_rclcpp_minimal_timer/cpplint.xunit.xml
+[0.838s] 3: Using '--root=..' argument
+[0.838s] 3: 
+[0.838s] 3: Done processing /home/chelbaev/NSU/robots/ex03/ros2_ws/src/examples/rclcpp/timers/minimal_timer/lambda.cpp
+[0.838s] 3: 
+[0.838s] 3: Done processing /home/chelbaev/NSU/robots/ex03/ros2_ws/src/examples/rclcpp/timers/minimal_timer/member_function.cpp
+[0.838s] 3: 
+[0.838s] 3: No problems found
+[0.858s] 3: -- run_test.py: return code 0
+[0.858s] 3: -- run_test.py: verify result file '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/test_results/examples_rclcpp_minimal_timer/cpplint.xunit.xml'
+[0.873s] 3/6 Test #3: cpplint ..........................   Passed    0.27 sec
+[0.873s] test 4
+[0.873s]     Start 4: lint_cmake
+[0.874s] 
+[0.874s] 4: Test command: /usr/bin/python3 "-u" "/opt/ros/humble/share/ament_cmake_test/cmake/run_test.py" "/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/test_results/examples_rclcpp_minimal_timer/lint_cmake.xunit.xml" "--package-name" "examples_rclcpp_minimal_timer" "--output-file" "/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/ament_lint_cmake/lint_cmake.txt" "--command" "/opt/ros/humble/bin/ament_lint_cmake" "--xunit-file" "/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/test_results/examples_rclcpp_minimal_timer/lint_cmake.xunit.xml"
+[0.874s] 4: Test timeout computed to be: 60
+[0.954s] 4: -- run_test.py: invoking following command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/src/examples/rclcpp/timers/minimal_timer':
+[0.955s] 4:  - /opt/ros/humble/bin/ament_lint_cmake --xunit-file /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/test_results/examples_rclcpp_minimal_timer/lint_cmake.xunit.xml
+[1.063s] 4: 
+[1.064s] 4: No problems found
+[1.076s] 4: -- run_test.py: return code 0
+[1.076s] 4: -- run_test.py: verify result file '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/test_results/examples_rclcpp_minimal_timer/lint_cmake.xunit.xml'
+[1.096s] 4/6 Test #4: lint_cmake .......................   Passed    0.22 sec
+[1.096s] test 5
+[1.096s]     Start 5: uncrustify
+[1.097s] 
+[1.097s] 5: Test command: /usr/bin/python3 "-u" "/opt/ros/humble/share/ament_cmake_test/cmake/run_test.py" "/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/test_results/examples_rclcpp_minimal_timer/uncrustify.xunit.xml" "--package-name" "examples_rclcpp_minimal_timer" "--output-file" "/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/ament_uncrustify/uncrustify.txt" "--command" "/opt/ros/humble/bin/ament_uncrustify" "--xunit-file" "/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/test_results/examples_rclcpp_minimal_timer/uncrustify.xunit.xml"
+[1.097s] 5: Test timeout computed to be: 60
+[1.178s] 5: -- run_test.py: invoking following command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/src/examples/rclcpp/timers/minimal_timer':
+[1.179s] 5:  - /opt/ros/humble/bin/ament_uncrustify --xunit-file /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/test_results/examples_rclcpp_minimal_timer/uncrustify.xunit.xml
+[1.293s] 5: No code style divergence in file 'lambda.cpp'
+[1.294s] 5: 
+[1.294s] 5: No code style divergence in file 'member_function.cpp'
+[1.294s] 5: 
+[1.294s] 5: No problems found
+[1.320s] 5: -- run_test.py: return code 0
+[1.320s] 5: -- run_test.py: verify result file '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/test_results/examples_rclcpp_minimal_timer/uncrustify.xunit.xml'
+[1.346s] 5/6 Test #5: uncrustify .......................   Passed    0.25 sec
+[1.347s] test 6
+[1.347s]     Start 6: xmllint
+[1.350s] 
+[1.350s] 6: Test command: /usr/bin/python3 "-u" "/opt/ros/humble/share/ament_cmake_test/cmake/run_test.py" "/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/test_results/examples_rclcpp_minimal_timer/xmllint.xunit.xml" "--package-name" "examples_rclcpp_minimal_timer" "--output-file" "/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/ament_xmllint/xmllint.txt" "--command" "/opt/ros/humble/bin/ament_xmllint" "--xunit-file" "/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/test_results/examples_rclcpp_minimal_timer/xmllint.xunit.xml"
+[1.350s] 6: Test timeout computed to be: 60
+[1.466s] 6: -- run_test.py: invoking following command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/src/examples/rclcpp/timers/minimal_timer':
+[1.466s] 6:  - /opt/ros/humble/bin/ament_xmllint --xunit-file /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/test_results/examples_rclcpp_minimal_timer/xmllint.xunit.xml
+[2.681s] 6: File 'package.xml' is valid
+[2.681s] 6: 
+[2.681s] 6: No problems found
+[2.733s] 6: -- run_test.py: return code 0
+[2.734s] 6: -- run_test.py: verify result file '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer/test_results/examples_rclcpp_minimal_timer/xmllint.xunit.xml'
+[2.774s] 6/6 Test #6: xmllint ..........................   Passed    1.41 sec
+[2.779s] 
+[2.779s] [0;32m100% tests passed[0;0m, 0 tests failed[0;0m out of 6
+[2.779s] 
+[2.779s] Label Time Summary:
+[2.779s] copyright     =   0.31 sec*proc (1 test)
+[2.779s] cppcheck      =   0.21 sec*proc (1 test)
+[2.780s] cpplint       =   0.27 sec*proc (1 test)
+[2.780s] lint_cmake    =   0.22 sec*proc (1 test)
+[2.780s] linter        =   2.67 sec*proc (6 tests)
+[2.780s] uncrustify    =   0.25 sec*proc (1 test)
+[2.780s] xmllint       =   1.41 sec*proc (1 test)
+[2.780s] 
+[2.780s] Total Test time (real) =   2.69 sec
+[2.822s] Invoked command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_timer' returned '0': AMENT_PREFIX_PATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_timer:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_timer /usr/bin/ctest -C Release -D ExperimentalTest --no-compress-output -V --force-new-ctest-process

@@ -1,0 +1,24 @@
+[0.325s] Invoking command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/src/examples/rclpy/topics/minimal_publisher': PYTHONPATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_publisher build --build-base /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_publisher/build install --record /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_publisher/install.log --single-version-externally-managed install_data
+[0.448s] running egg_info
+[0.448s] writing ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/PKG-INFO
+[0.449s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/dependency_links.txt
+[0.449s] writing entry points to ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/entry_points.txt
+[0.449s] writing requirements to ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/requires.txt
+[0.449s] writing top-level names to ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/top_level.txt
+[0.450s] reading manifest file '../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/SOURCES.txt'
+[0.450s] writing manifest file '../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info/SOURCES.txt'
+[0.450s] running build
+[0.450s] running build_py
+[0.450s] running install
+[0.450s] running install_lib
+[0.451s] running install_data
+[0.451s] running install_egg_info
+[0.452s] removing '/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages/examples_rclpy_minimal_publisher-0.15.4-py3.10.egg-info' (and everything under it)
+[0.452s] Copying ../../../../../build/examples_rclpy_minimal_publisher/examples_rclpy_minimal_publisher.egg-info to /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages/examples_rclpy_minimal_publisher-0.15.4-py3.10.egg-info
+[0.453s] running install_scripts
+[0.466s] Installing publisher_local_function script to /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[0.466s] Installing publisher_member_function script to /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[0.466s] Installing publisher_member_function_with_wait_for_all_acked script to /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[0.466s] Installing publisher_old_school script to /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_publisher/lib/examples_rclpy_minimal_publisher
+[0.466s] writing list of installed files to '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_publisher/install.log'
+[0.481s] Invoked command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/src/examples/rclpy/topics/minimal_publisher' returned '0': PYTHONPATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_publisher/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_publisher build --build-base /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_publisher/build install --record /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_publisher/install.log --single-version-externally-managed install_data

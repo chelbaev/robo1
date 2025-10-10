@@ -1,0 +1,23 @@
+[0.315s] Invoking command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/launch_testing_examples': PYTHONPATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/launch_testing_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/chelbaev/NSU/robots/ex03/ros2_ws/build/launch_testing_examples/build --no-deps symlink_data
+[0.450s] running develop
+[0.523s] running egg_info
+[0.523s] creating launch_testing_examples.egg-info
+[0.523s] writing launch_testing_examples.egg-info/PKG-INFO
+[0.523s] writing dependency_links to launch_testing_examples.egg-info/dependency_links.txt
+[0.523s] writing entry points to launch_testing_examples.egg-info/entry_points.txt
+[0.523s] writing requirements to launch_testing_examples.egg-info/requires.txt
+[0.523s] writing top-level names to launch_testing_examples.egg-info/top_level.txt
+[0.524s] writing manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[0.524s] reading manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[0.525s] writing manifest file 'launch_testing_examples.egg-info/SOURCES.txt'
+[0.525s] running build_ext
+[0.526s] Creating /home/chelbaev/NSU/robots/ex03/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages/launch-testing-examples.egg-link (link to .)
+[0.526s] 
+[0.526s] Installed /home/chelbaev/NSU/robots/ex03/ros2_ws/build/launch_testing_examples
+[0.526s] running symlink_data
+[0.526s] creating /home/chelbaev/NSU/robots/ex03/ros2_ws/install/launch_testing_examples/share/ament_index
+[0.526s] creating /home/chelbaev/NSU/robots/ex03/ros2_ws/install/launch_testing_examples/share/ament_index/resource_index
+[0.526s] creating /home/chelbaev/NSU/robots/ex03/ros2_ws/install/launch_testing_examples/share/ament_index/resource_index/packages
+[0.527s] symbolically linking /home/chelbaev/NSU/robots/ex03/ros2_ws/build/launch_testing_examples/resource/launch_testing_examples -> /home/chelbaev/NSU/robots/ex03/ros2_ws/install/launch_testing_examples/share/ament_index/resource_index/packages
+[0.527s] symbolically linking /home/chelbaev/NSU/robots/ex03/ros2_ws/build/launch_testing_examples/package.xml -> /home/chelbaev/NSU/robots/ex03/ros2_ws/install/launch_testing_examples/share/launch_testing_examples
+[0.544s] Invoked command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/launch_testing_examples' returned '0': PYTHONPATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/launch_testing_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/launch_testing_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/chelbaev/NSU/robots/ex03/ros2_ws/build/launch_testing_examples/build --no-deps symlink_data

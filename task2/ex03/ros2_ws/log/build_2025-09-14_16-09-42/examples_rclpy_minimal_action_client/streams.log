@@ -1,0 +1,27 @@
+[0.318s] Invoking command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_action_client': PYTHONPATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_action_client/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_action_client/build --no-deps symlink_data
+[0.454s] running develop
+[0.529s] running egg_info
+[0.530s] creating examples_rclpy_minimal_action_client.egg-info
+[0.530s] writing examples_rclpy_minimal_action_client.egg-info/PKG-INFO
+[0.530s] writing dependency_links to examples_rclpy_minimal_action_client.egg-info/dependency_links.txt
+[0.530s] writing entry points to examples_rclpy_minimal_action_client.egg-info/entry_points.txt
+[0.530s] writing requirements to examples_rclpy_minimal_action_client.egg-info/requires.txt
+[0.530s] writing top-level names to examples_rclpy_minimal_action_client.egg-info/top_level.txt
+[0.530s] writing manifest file 'examples_rclpy_minimal_action_client.egg-info/SOURCES.txt'
+[0.531s] reading manifest file 'examples_rclpy_minimal_action_client.egg-info/SOURCES.txt'
+[0.531s] writing manifest file 'examples_rclpy_minimal_action_client.egg-info/SOURCES.txt'
+[0.532s] running build_ext
+[0.532s] Creating /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages/examples-rclpy-minimal-action-client.egg-link (link to .)
+[0.533s] Installing client script to /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[0.533s] Installing client_asyncio script to /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[0.533s] Installing client_cancel script to /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[0.533s] Installing client_not_composable script to /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_client/lib/examples_rclpy_minimal_action_client
+[0.533s] 
+[0.533s] Installed /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_action_client
+[0.533s] running symlink_data
+[0.533s] creating /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_client/share/ament_index
+[0.533s] creating /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_client/share/ament_index/resource_index
+[0.533s] creating /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_client/share/ament_index/resource_index/packages
+[0.533s] symbolically linking /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_action_client/resource/examples_rclpy_minimal_action_client -> /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_client/share/ament_index/resource_index/packages
+[0.533s] symbolically linking /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_action_client/package.xml -> /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_client/share/examples_rclpy_minimal_action_client
+[0.550s] Invoked command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_action_client' returned '0': PYTHONPATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_action_client/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_action_client/build --no-deps symlink_data

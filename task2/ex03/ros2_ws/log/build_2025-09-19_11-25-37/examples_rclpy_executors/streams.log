@@ -1,0 +1,56 @@
+[0.375s] Invoking command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors': PYTHONPATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/build
+[0.512s] running develop
+[0.589s] Removing /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples-rclpy-executors.egg-link (link to .)
+[0.605s] Invoked command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors' returned '0': PYTHONPATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/build
+[0.607s] Invoking command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/src/examples/rclpy/executors': PYTHONPATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/examples_rclpy_executors build --build-base /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/build install --record /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/install.log --single-version-externally-managed install_data --force
+[0.732s] running egg_info
+[0.733s] writing ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/PKG-INFO
+[0.733s] writing dependency_links to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/dependency_links.txt
+[0.733s] writing entry points to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/entry_points.txt
+[0.733s] writing requirements to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/requires.txt
+[0.733s] writing top-level names to ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/top_level.txt
+[0.735s] reading manifest file '../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/SOURCES.txt'
+[0.736s] writing manifest file '../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info/SOURCES.txt'
+[0.736s] running build
+[0.736s] running build_py
+[0.736s] creating /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/build
+[0.736s] creating /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/build/lib
+[0.736s] creating /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[0.736s] copying examples_rclpy_executors/composed.py -> /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[0.737s] copying examples_rclpy_executors/callback_group.py -> /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[0.737s] copying examples_rclpy_executors/custom_executor.py -> /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[0.737s] copying examples_rclpy_executors/__init__.py -> /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[0.737s] copying examples_rclpy_executors/custom_callback_group.py -> /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[0.737s] copying examples_rclpy_executors/listener.py -> /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[0.737s] copying examples_rclpy_executors/talker.py -> /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors
+[0.737s] running install
+[0.737s] running install_lib
+[0.738s] creating /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[0.738s] copying /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/composed.py -> /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[0.738s] copying /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/callback_group.py -> /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[0.738s] copying /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/custom_executor.py -> /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[0.738s] copying /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/__init__.py -> /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[0.738s] copying /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/custom_callback_group.py -> /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[0.738s] copying /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/listener.py -> /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[0.738s] copying /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/build/lib/examples_rclpy_executors/talker.py -> /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors
+[0.738s] byte-compiling /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/composed.py to composed.cpython-310.pyc
+[0.738s] byte-compiling /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/callback_group.py to callback_group.cpython-310.pyc
+[0.739s] byte-compiling /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/custom_executor.py to custom_executor.cpython-310.pyc
+[0.739s] byte-compiling /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/__init__.py to __init__.cpython-310.pyc
+[0.739s] byte-compiling /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/custom_callback_group.py to custom_callback_group.cpython-310.pyc
+[0.740s] byte-compiling /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/listener.py to listener.cpython-310.pyc
+[0.740s] byte-compiling /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors/talker.py to talker.cpython-310.pyc
+[0.740s] running install_data
+[0.740s] copying resource/examples_rclpy_executors -> /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/share/ament_index/resource_index/packages
+[0.740s] copying package.xml -> /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/share/examples_rclpy_executors
+[0.740s] running install_egg_info
+[0.742s] Copying ../../../../build/examples_rclpy_executors/examples_rclpy_executors.egg-info to /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages/examples_rclpy_executors-0.15.4-py3.10.egg-info
+[0.742s] running install_scripts
+[0.756s] Installing callback_group script to /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[0.757s] Installing composed script to /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[0.757s] Installing custom_callback_group script to /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[0.757s] Installing custom_executor script to /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[0.757s] Installing listener script to /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[0.757s] Installing talker script to /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/lib/examples_rclpy_executors
+[0.757s] writing list of installed files to '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/install.log'
+[0.772s] Invoked command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/src/examples/rclpy/executors' returned '0': PYTHONPATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../build/examples_rclpy_executors build --build-base /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/build install --record /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_executors/install.log --single-version-externally-managed install_data --force

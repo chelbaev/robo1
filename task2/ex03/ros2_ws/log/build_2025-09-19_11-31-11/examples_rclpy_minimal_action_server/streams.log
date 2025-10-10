@@ -1,0 +1,25 @@
+[0.384s] Invoking command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/src/examples/rclpy/actions/minimal_action_server': PYTHONPATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_action_server/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_action_server build --build-base /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_action_server/build install --record /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_action_server/install.log --single-version-externally-managed install_data
+[0.513s] running egg_info
+[0.513s] writing ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/PKG-INFO
+[0.513s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/dependency_links.txt
+[0.514s] writing entry points to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/entry_points.txt
+[0.514s] writing requirements to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/requires.txt
+[0.514s] writing top-level names to ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/top_level.txt
+[0.514s] reading manifest file '../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[0.515s] writing manifest file '../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info/SOURCES.txt'
+[0.515s] running build
+[0.515s] running build_py
+[0.515s] running install
+[0.516s] running install_lib
+[0.516s] running install_data
+[0.516s] running install_egg_info
+[0.517s] removing '/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server-0.15.4-py3.10.egg-info' (and everything under it)
+[0.517s] Copying ../../../../../build/examples_rclpy_minimal_action_server/examples_rclpy_minimal_action_server.egg-info to /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages/examples_rclpy_minimal_action_server-0.15.4-py3.10.egg-info
+[0.518s] running install_scripts
+[0.531s] Installing server script to /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[0.531s] Installing server_defer script to /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[0.531s] Installing server_not_composable script to /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[0.531s] Installing server_queue_goals script to /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[0.531s] Installing server_single_goal script to /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_server/lib/examples_rclpy_minimal_action_server
+[0.532s] writing list of installed files to '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_action_server/install.log'
+[0.549s] Invoked command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/src/examples/rclpy/actions/minimal_action_server' returned '0': PYTHONPATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_action_server/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_server/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_action_server build --build-base /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_action_server/build install --record /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_action_server/install.log --single-version-externally-managed install_data

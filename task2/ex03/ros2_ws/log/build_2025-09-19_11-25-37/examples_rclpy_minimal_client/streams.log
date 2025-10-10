@@ -1,0 +1,48 @@
+[0.322s] Invoking command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_client': PYTHONPATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_client/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_client/build
+[0.454s] running develop
+[0.531s] Removing /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples-rclpy-minimal-client.egg-link (link to .)
+[0.547s] Invoked command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_client' returned '0': PYTHONPATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_client/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_client/build
+[0.549s] Invoking command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/src/examples/rclpy/services/minimal_client': PYTHONPATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_client/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_client build --build-base /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_client/build install --record /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_client/install.log --single-version-externally-managed install_data --force
+[0.673s] running egg_info
+[0.673s] writing ../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/PKG-INFO
+[0.673s] writing dependency_links to ../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/dependency_links.txt
+[0.674s] writing entry points to ../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/entry_points.txt
+[0.674s] writing requirements to ../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/requires.txt
+[0.674s] writing top-level names to ../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/top_level.txt
+[0.674s] reading manifest file '../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/SOURCES.txt'
+[0.677s] writing manifest file '../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info/SOURCES.txt'
+[0.677s] running build
+[0.678s] running build_py
+[0.678s] creating /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_client/build
+[0.678s] creating /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_client/build/lib
+[0.678s] creating /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_client/build/lib/examples_rclpy_minimal_client
+[0.678s] copying examples_rclpy_minimal_client/client_async_member_function.py -> /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_client/build/lib/examples_rclpy_minimal_client
+[0.678s] copying examples_rclpy_minimal_client/__init__.py -> /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_client/build/lib/examples_rclpy_minimal_client
+[0.678s] copying examples_rclpy_minimal_client/client.py -> /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_client/build/lib/examples_rclpy_minimal_client
+[0.678s] copying examples_rclpy_minimal_client/client_async.py -> /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_client/build/lib/examples_rclpy_minimal_client
+[0.679s] copying examples_rclpy_minimal_client/client_async_callback.py -> /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_client/build/lib/examples_rclpy_minimal_client
+[0.679s] running install
+[0.680s] running install_lib
+[0.681s] creating /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client
+[0.681s] copying /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_client/build/lib/examples_rclpy_minimal_client/client_async_member_function.py -> /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client
+[0.681s] copying /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_client/build/lib/examples_rclpy_minimal_client/__init__.py -> /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client
+[0.681s] copying /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_client/build/lib/examples_rclpy_minimal_client/client.py -> /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client
+[0.681s] copying /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_client/build/lib/examples_rclpy_minimal_client/client_async.py -> /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client
+[0.681s] copying /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_client/build/lib/examples_rclpy_minimal_client/client_async_callback.py -> /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client
+[0.682s] byte-compiling /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client/client_async_member_function.py to client_async_member_function.cpython-310.pyc
+[0.682s] byte-compiling /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client/__init__.py to __init__.cpython-310.pyc
+[0.682s] byte-compiling /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client/client.py to client.cpython-310.pyc
+[0.683s] byte-compiling /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client/client_async.py to client_async.cpython-310.pyc
+[0.683s] byte-compiling /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client/client_async_callback.py to client_async_callback.cpython-310.pyc
+[0.684s] running install_data
+[0.684s] copying resource/examples_rclpy_minimal_client -> /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_client/share/ament_index/resource_index/packages
+[0.684s] copying package.xml -> /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_client/share/examples_rclpy_minimal_client
+[0.684s] running install_egg_info
+[0.685s] Copying ../../../../../build/examples_rclpy_minimal_client/examples_rclpy_minimal_client.egg-info to /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages/examples_rclpy_minimal_client-0.15.4-py3.10.egg-info
+[0.686s] running install_scripts
+[0.703s] Installing client script to /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_client/lib/examples_rclpy_minimal_client
+[0.703s] Installing client_async script to /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_client/lib/examples_rclpy_minimal_client
+[0.703s] Installing client_async_callback script to /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_client/lib/examples_rclpy_minimal_client
+[0.703s] Installing client_async_member_function script to /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_client/lib/examples_rclpy_minimal_client
+[0.703s] writing list of installed files to '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_client/install.log'
+[0.718s] Invoked command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/src/examples/rclpy/services/minimal_client' returned '0': PYTHONPATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_client/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_client/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../../../build/examples_rclpy_minimal_client build --build-base /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_client/build install --record /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_minimal_client/install.log --single-version-externally-managed install_data --force

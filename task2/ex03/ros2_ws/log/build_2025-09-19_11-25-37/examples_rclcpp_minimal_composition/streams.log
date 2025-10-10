@@ -1,0 +1,43 @@
+[0.005s] Invoking command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_composition': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_composition -- -j12 -l12
+[0.054s] [ 22%] [32mBuilding CXX object CMakeFiles/composition_nodes.dir/src/subscriber_node.cpp.o[0m
+[0.054s] [ 22%] [32mBuilding CXX object CMakeFiles/composition_nodes.dir/src/publisher_node.cpp.o[0m
+[6.250s] [ 33%] [32m[1mLinking CXX shared library libcomposition_nodes.so[0m
+[6.593s] [ 33%] Built target composition_nodes
+[6.605s] [35m[1mConsolidate compiler generated dependencies of target composition_composed[0m
+[6.605s] [35m[1mConsolidate compiler generated dependencies of target composition_subscriber[0m
+[6.605s] [35m[1mConsolidate compiler generated dependencies of target composition_publisher[0m
+[6.619s] [ 55%] [32mBuilding CXX object CMakeFiles/composition_composed.dir/src/composed.cpp.o[0m
+[6.620s] [ 55%] [32mBuilding CXX object CMakeFiles/composition_publisher.dir/src/standalone_publisher.cpp.o[0m
+[6.620s] [ 66%] [32mBuilding CXX object CMakeFiles/composition_subscriber.dir/src/standalone_subscriber.cpp.o[0m
+[9.037s] [ 77%] [32m[1mLinking CXX executable composition_subscriber[0m
+[9.184s] [ 77%] Built target composition_subscriber
+[9.213s] [ 88%] [32m[1mLinking CXX executable composition_composed[0m
+[9.349s] [ 88%] Built target composition_composed
+[9.826s] [100%] [32m[1mLinking CXX executable composition_publisher[0m
+[9.949s] [100%] Built target composition_publisher
+[9.958s] Invoked command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_composition' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_composition -- -j12 -l12
+[9.959s] Invoking command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_composition': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_composition
+[9.964s] -- Install configuration: "Debug"
+[9.964s] -- Execute custom install script
+[9.964s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/library_path.sh
+[9.964s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/library_path.dsv
+[9.964s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_composition/lib/libcomposition_nodes.so
+[9.964s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_composition/lib/examples_rclcpp_minimal_composition/composition_publisher
+[9.965s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_composition/lib/examples_rclcpp_minimal_composition/composition_subscriber
+[9.965s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_composition/lib/examples_rclcpp_minimal_composition/composition_composed
+[9.965s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_composition/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_minimal_composition
+[9.965s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_composition/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_minimal_composition
+[9.965s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/ament_prefix_path.sh
+[9.965s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/ament_prefix_path.dsv
+[9.965s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/path.sh
+[9.965s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/environment/path.dsv
+[9.965s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/local_setup.bash
+[9.965s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/local_setup.sh
+[9.965s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/local_setup.zsh
+[9.965s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/local_setup.dsv
+[9.966s] -- Symlinking: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/package.dsv
+[9.974s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_composition/share/ament_index/resource_index/packages/examples_rclcpp_minimal_composition
+[9.974s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/cmake/examples_rclcpp_minimal_compositionConfig.cmake
+[9.974s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/cmake/examples_rclcpp_minimal_compositionConfig-version.cmake
+[9.974s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_minimal_composition/share/examples_rclcpp_minimal_composition/package.xml
+[9.976s] Invoked command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_composition' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_minimal_composition

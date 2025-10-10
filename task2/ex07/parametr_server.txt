@@ -1,0 +1,27 @@
+/teleop_turtle:
+  ros__parameters:
+    qos_overrides:
+      /parameter_events:
+        publisher:
+          depth: 1000
+          durability: volatile
+          history: keep_last
+          reliability: reliable
+    scale_angular: 2.0
+    scale_linear: 2.0
+    use_sim_time: false
+
+/turtlesim:
+  ros__parameters:
+    background_b: 255
+    background_g: 124
+    background_r: 69
+    qos_overrides:
+      /parameter_events:
+        publisher:
+          depth: 1000
+          durability: volatile
+          history: keep_last
+          reliability: reliable
+    use_sim_time: false
+

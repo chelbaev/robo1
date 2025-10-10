@@ -1,0 +1,46 @@
+[0.006s] Invoking command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/launch_testing_examples:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_service:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_publisher:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_client:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_server:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_client:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_guard_conditions:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_wait_set -- -j12 -l12
+[0.062s] [  8%] Built target static_wait_set
+[0.062s] [ 25%] Built target wait_set_topics_with_different_rates
+[0.062s] [ 29%] Built target wait_set_listener
+[0.062s] [ 33%] Built target listener
+[0.062s] [ 41%] Built target wait_set_random_order
+[0.063s] [ 50%] Built target wait_set
+[0.063s] [ 58%] Built target wait_set_topics_and_timer
+[0.064s] [ 75%] Built target wait_set_talker
+[0.064s] [ 75%] Built target executor_random_order
+[0.065s] [ 83%] Built target thread_safe_wait_set
+[0.067s] [ 91%] Built target talker
+[0.087s] [100%] Built target wait_set_composed
+[0.097s] Invoked command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_wait_set' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/launch_testing_examples:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_service:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_publisher:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_client:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_server:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_client:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_guard_conditions:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --build /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_wait_set -- -j12 -l12
+[0.098s] Invoking command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_wait_set': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/launch_testing_examples:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_service:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_publisher:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_client:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_server:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_client:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_guard_conditions:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_wait_set
+[0.104s] -- Install configuration: "Debug"
+[0.104s] -- Execute custom install script
+[0.104s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_talker
+[0.104s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_listener
+[0.104s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/lib/libtalker.so
+[0.104s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/lib/liblistener.so
+[0.105s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set
+[0.105s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/static_wait_set
+[0.105s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/thread_safe_wait_set
+[0.105s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_and_timer
+[0.105s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_random_order
+[0.105s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/executor_random_order
+[0.105s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_topics_with_different_rates
+[0.105s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/lib/examples_rclcpp_wait_set/wait_set_composed
+[0.105s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/package_run_dependencies/examples_rclcpp_wait_set
+[0.105s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/parent_prefix_path/examples_rclcpp_wait_set
+[0.105s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/ament_prefix_path.sh
+[0.105s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/ament_prefix_path.dsv
+[0.106s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/path.sh
+[0.106s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/environment/path.dsv
+[0.106s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.bash
+[0.106s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.sh
+[0.106s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.zsh
+[0.106s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/local_setup.dsv
+[0.106s] -- Symlinking: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/package.dsv
+[0.112s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/packages/examples_rclcpp_wait_set
+[0.112s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/share/ament_index/resource_index/rclcpp_components/examples_rclcpp_wait_set
+[0.112s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/cmake/examples_rclcpp_wait_setConfig.cmake
+[0.112s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/cmake/examples_rclcpp_wait_setConfig-version.cmake
+[0.112s] -- Up-to-date symlink: /home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclcpp_wait_set/share/examples_rclcpp_wait_set/package.xml
+[0.113s] Invoked command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_wait_set' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/launch_testing_examples:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_pointcloud_publisher:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_subscriber:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_service:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_publisher:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_client:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_server:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_minimal_action_client:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_guard_conditions:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_executors:/opt/ros/humble /usr/bin/cmake --install /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclcpp_wait_set

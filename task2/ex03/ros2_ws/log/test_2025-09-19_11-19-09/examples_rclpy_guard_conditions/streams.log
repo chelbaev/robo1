@@ -1,0 +1,22 @@
+[0.322s] Invoking command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/src/examples/rclpy/guard_conditions': AMENT_PREFIX_PATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_guard_conditions:${AMENT_PREFIX_PATH} PYTEST_ADDOPTS=--tb=short --junit-xml=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_guard_conditions/pytest.xml --junit-prefix=examples_rclpy_guard_conditions -o cache_dir=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_guard_conditions/.pytest_cache PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_guard_conditions:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -m pytest
+[0.511s] [1m============================= test session starts ==============================[0m
+[0.511s] platform linux -- Python 3.10.12, pytest-6.2.5, py-1.10.0, pluggy-0.13.0
+[0.515s] cachedir: /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_guard_conditions/.pytest_cache
+[0.515s] rootdir: /home/chelbaev/NSU/robots/ex03/ros2_ws/src/examples/rclpy, configfile: pytest.ini
+[0.515s] plugins: ament-pep257-0.12.14, ament-flake8-0.12.14, launch-testing-ros-0.19.10, ament-lint-0.12.14, ament-copyright-0.12.14, ament-xmllint-0.12.14, launch-testing-1.0.10, cov-3.0.0, colcon-core-0.20.0
+[0.567s] [1mcollecting ... [0m[1m
+[0.567s] collected 3 items                                                              [0m
+[0.567s] 
+[0.652s] test/test_copyright.py [32m.[0m[32m                                                 [ 33%][0m
+[0.734s] test/test_flake8.py [32m.[0m[33m                                                    [ 66%][0m
+[0.751s] test/test_pep257.py [32m.[0m[33m                                                    [100%][0m
+[0.751s] 
+[0.752s] [33m=============================== warnings summary ===============================[0m
+[0.752s] guard_conditions/test/test_flake8.py::test_flake8
+[0.752s] guard_conditions/test/test_flake8.py::test_flake8
+[0.752s]   Warning: SelectableGroups dict interface is deprecated. Use select.
+[0.752s] 
+[0.752s] -- Docs: https://docs.pytest.org/en/stable/warnings.html
+[0.752s] - generated xml file: /home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_guard_conditions/pytest.xml -
+[0.752s] [33m======================== [32m3 passed[0m, [33m[1m2 warnings[0m[33m in 0.24s[0m[33m =========================[0m
+[2.036s] Invoked command in '/home/chelbaev/NSU/robots/ex03/ros2_ws/src/examples/rclpy/guard_conditions' returned '0': AMENT_PREFIX_PATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_guard_conditions:${AMENT_PREFIX_PATH} PYTEST_ADDOPTS=--tb=short --junit-xml=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_guard_conditions/pytest.xml --junit-prefix=examples_rclpy_guard_conditions -o cache_dir=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_guard_conditions/.pytest_cache PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=/home/chelbaev/NSU/robots/ex03/ros2_ws/build/examples_rclpy_guard_conditions:/home/chelbaev/NSU/robots/ex03/ros2_ws/install/examples_rclpy_guard_conditions/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -m pytest
