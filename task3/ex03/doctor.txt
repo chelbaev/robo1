@@ -1,0 +1,48 @@
+=== ROS2 DOCTOR REPORT ===
+
+PLATFORM INFORMATION
+====================
+   PLATFORM INFORMATION
+system           : Linux
+platform info    : Linux-6.8.0-85-generic-x86_64-with-glibc2.39
+release          : 6.8.0-85-generic
+processor        : x86_64
+
+   QOS COMPATIBILITY LIST
+compatibility status    : No publisher/subscriber pairs found
+
+   RMW MIDDLEWARE
+middleware name    : rmw_fastrtps_cpp
+
+   ROS 2 INFORMATION
+distribution name      : jazzy
+distribution type      : ros2
+distribution status    : active
+release platforms      : {'debian': ['bookworm'], 'rhel': ['9'], 'ubuntu': ['noble']}
+
+   TOPIC LIST
+topic               : none
+publisher count     : 0
+
+RWM MIDDLEWARE
+==============
+
+ROS 2 INFORMATION
+=================
+   ROS 2 INFORMATION
+distribution name      : jazzy
+distribution type      : ros2
+distribution status    : active
+release platforms      : {'debian': ['bookworm'], 'rhel': ['9'], 'ubuntu': ['noble']}
+
+   TOPIC LIST
+topic               : none
+publisher count     : 0
+subscriber count    : 0
+
+TOPIC LIST
+==========
+   TOPIC LIST
+topic               : none
+publisher count     : 0
+subscriber count    : 0

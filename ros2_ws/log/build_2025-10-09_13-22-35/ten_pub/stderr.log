@@ -1,5 +1,0 @@
-  File "/home/chelbaev/NSU/robots/ros2_ws/install/ten_pub/lib/python3.10/site-packages/ten_pub/publisher_member_function.py", line 32
-    msg.linear.x = = 1 
-                   ^
-SyntaxError: invalid syntax
-
