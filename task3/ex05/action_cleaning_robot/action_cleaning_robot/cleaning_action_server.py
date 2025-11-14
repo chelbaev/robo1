@@ -114,16 +114,14 @@ class CleaningActionServer(Node):
         return self.create_result(True, cleaned_points, total_distance)
 
 
-    def clean_circle(self, max_radius, goal_handle, feedback_msg):
+    def clean_circle(self, num_turns, goal_handle, feedback_msg):
         center_x = self.current_pose.x
         center_y = self.current_pose.y
         
-        self.get_logger().info(f"Circle cleaning: center=({center_x:.2f}, {center_y:.2f}), "
-                             f"radius={max_radius:.2f}m")
+        self.get_logger().info(f"Circle cleaning: center=({center_x:.2f}, {center_y:.2f})")
         
-        num_turns = 5
         angle_step = 0.1
-        a = max_radius / (2 * np.pi * num_turns)
+        a = 2 * np.pi
         current_progress = 0
         threshold = 20
         
@@ -131,14 +129,14 @@ class CleaningActionServer(Node):
         max_angle = 2 * np.pi * num_turns
         total_distance = 0.0
 
-        total_points = int(np.pi * max_radius * max_radius * 10)
+        total_points = int(np.pi * num_turns * num_turns * 10)
         
         while current_angle < max_angle:
             if goal_handle.is_cancel_requested:
                 break
             
             current_radius = a * current_angle
-            if current_radius > max_radius:
+            if current_radius > num_turns:
                 break
             
             target_x = center_x + current_radius * np.cos(current_angle)

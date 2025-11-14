@@ -75,8 +75,6 @@ def main(args=None):
     try:
         action_client.get_logger().info("STARTING TASKS \n")
         inp = input()
-        if inp == 'end':
-            action_client.get_logger().info("END EXECUTE \n")
         inp = inp.split()
         action_client.get_logger().info(f"Task 1: {inp[0]}")
         if len(inp) == 1:
